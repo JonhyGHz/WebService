@@ -1,0 +1,5 @@
+c:\users\jonathan hz\documents\visual studio 2012\Projects\WebServiceBiblioteca\WebServiceBiblioteca\bin\WebServiceBiblioteca.dll
+c:\users\jonathan hz\documents\visual studio 2012\Projects\WebServiceBiblioteca\WebServiceBiblioteca\bin\WebServiceBiblioteca.pdb
+c:\users\jonathan hz\documents\visual studio 2012\Projects\WebServiceBiblioteca\WebServiceBiblioteca\obj\Debug\WebServiceBiblioteca.dll
+c:\users\jonathan hz\documents\visual studio 2012\Projects\WebServiceBiblioteca\WebServiceBiblioteca\obj\Debug\WebServiceBiblioteca.pdb
+C:\Users\Jonathan Hz\documents\visual studio 2012\Projects\WebServiceBiblioteca\WebServiceBiblioteca\obj\Debug\WebServiceBiblioteca.csprojResolveAssemblyReference.cache
